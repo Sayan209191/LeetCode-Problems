@@ -1,34 +1,39 @@
 class Solution {
-    public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        ArrayList<Integer> list = new ArrayList<>();
+    public double findMedianSortedArrays(int[] arr1, int[] arr2) {
+        int n1 = arr1.length, n2 = arr2.length;
+        if (n1 > n2) return medianHelper(arr2, arr1, n2, n1);
+        else return medianHelper(arr1, arr2, n1, n2);
+    }
+    private double medianHelper(int arr1[], int arr2[], int n1, int n2) {
+        int n = n1 + n2;
+        int left = (n1 + n2 + 1) / 2; 
+        int low = 0, high = n1;
+        while (low <= high) {
+           
+            int mid1 = (low + high) >>> 1; 
         
-        int idx1 = 0;
-        int idx2 = 0;
-        
-        while(idx1 < nums1.length && idx2 < nums2.length) {
-            if(nums1[idx1] <= nums2[idx2]) {
-                list.add(nums1[idx1]);
-                idx1++;
+            int mid2 = left - mid1; 
+
+            // Calculate l1, l2, r1, and r2
+            int l1 = (mid1 > 0) ? arr1[mid1 - 1] : Integer.MIN_VALUE;
+            int r1 = (mid1 < n1) ? arr1[mid1] : Integer.MAX_VALUE;
+            int l2 = (mid2 > 0) ? arr2[mid2 - 1] : Integer.MIN_VALUE;
+            int r2 = (mid2 < n2) ? arr2[mid2] : Integer.MAX_VALUE;
+
+            if (l1 <= r2 && l2 <= r1) {
+                //  for finding median in Odd length
+                if (n % 2 == 1) return Math.max(l1, l2);
+                else return (double)(Math.max(l1, l2) + Math.min(r1, r2)) / 2.0;
+            } 
+            else if (l1 > r2) {
+                
+                high = mid1 - 1;
             } else {
-                list.add(nums2[idx2]);
-                idx2++;
+                
+                low = mid1 + 1;
             }
         }
         
-        while(idx1 < nums1.length) {
-            list.add(nums1[idx1]);
-            idx1++;
-        }
-        
-        while(idx2 < nums2.length) {
-            list.add(nums2[idx2]);
-            idx2++;
-        }
-        
-        if(list.size() % 2 == 0) {
-            return (double) (list.get(list.size()/2) + list.get((list.size()/2) -1))/2;
-        } else {
-            return (double) list.get(list.size()/2);
-        }
+        return 0; 
     }
 }
