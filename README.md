@@ -80,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Math
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
