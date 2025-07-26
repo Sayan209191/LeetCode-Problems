@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0260-single-number-iii) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
