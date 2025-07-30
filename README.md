@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Two Pointers
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0029-divide-two-integers) |
+| [0070-climbing-stairs](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0268-missing-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
