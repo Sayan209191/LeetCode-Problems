@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Linked List
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Backtracking
 |  |
@@ -232,4 +235,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
