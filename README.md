@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1813-maximum-erasure-value](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0940-fruit-into-baskets](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2479-meeting-rooms-iii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2479-meeting-rooms-iii) |
