@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Stack
 |  |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -289,10 +292,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Ordered Set
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3790-fruits-into-baskets-ii) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
