@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
+| [1019-squares-of-a-sorted-array](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1813-maximum-erasure-value](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0268-missing-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2479-meeting-rooms-iii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Linked List
 |  |
