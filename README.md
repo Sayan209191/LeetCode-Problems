@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sliding Window
 |  |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -323,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0572-subtree-of-another-tree) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
