@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0055-jump-game](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0268-missing-number) |
