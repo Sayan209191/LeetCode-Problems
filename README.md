@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0874-backspace-string-compare](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
