@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0046-permutations](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0079-word-search) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
