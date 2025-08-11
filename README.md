@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
