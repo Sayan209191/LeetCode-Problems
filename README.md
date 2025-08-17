@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0826-soup-servings](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0867-new-21-game](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1448-maximum-69-number) |
@@ -390,4 +393,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
