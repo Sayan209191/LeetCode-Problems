@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0679-24-game](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0679-24-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0900-reordered-power-of-2) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
+| [0679-24-game](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
