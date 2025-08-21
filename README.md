@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2047-find-a-peak-element-ii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [2047-find-a-peak-element-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2047-find-a-peak-element-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0874-backspace-string-compare](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Backtracking
 |  |
@@ -413,4 +417,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0826-soup-servings](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0867-new-21-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
