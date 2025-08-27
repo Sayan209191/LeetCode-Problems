@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0679-24-game](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0679-24-game) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0260-single-number-iii) |
