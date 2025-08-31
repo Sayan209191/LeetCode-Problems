@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0036-valid-sudoku](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0046-permutations) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0046-permutations) |
