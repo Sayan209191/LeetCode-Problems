@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1917-maximum-average-pass-ratio](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2047-find-a-peak-element-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2047-find-a-peak-element-ii) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1448-maximum-69-number](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1917-maximum-average-pass-ratio](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2689-rearranging-fruits) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2479-meeting-rooms-iii) |
 ## Simulation
