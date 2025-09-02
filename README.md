@@ -484,4 +484,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Database
+|  |
+| ------- |
+| [1801-average-time-of-process-per-machine](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1801-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
