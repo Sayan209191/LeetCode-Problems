@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0392-is-subsequence) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0494-target-sum) |
