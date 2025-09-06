@@ -18,6 +18,7 @@ class Solution {
                 }
             }
             ans += (sum + 1) / 2;
-        }return ans;
+        }
+        return ans;
     }
 }
