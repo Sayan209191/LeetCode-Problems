@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2479-meeting-rooms-iii) |
 | [2689-rearranging-fruits](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2689-rearranging-fruits) |
+| [3678-design-task-manager](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Heap (Priority Queue)
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2429-design-a-food-rating-system](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2479-meeting-rooms-iii) |
+| [3678-design-task-manager](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3678-design-task-manager) |
 ## Simulation
 |  |
 | ------- |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [2429-design-a-food-rating-system](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3678-design-task-manager) |
 ## Recursion
 |  |
 | ------- |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3791-fruits-into-baskets-iii) |
 ## String Matching
