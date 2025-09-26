@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
+| [0611-valid-triangle-number](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0679-24-game](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0679-24-game) |
 | [0735-asteroid-collision](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0735-asteroid-collision) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0611-valid-triangle-number](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2047-find-a-peak-element-ii) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0611-valid-triangle-number](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0900-reordered-power-of-2) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0611-valid-triangle-number](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
 | [0678-valid-parenthesis-string](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1448-maximum-69-number](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -313,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0392-is-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0611-valid-triangle-number) |
 | [0874-backspace-string-compare](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1019-squares-of-a-sorted-array) |
