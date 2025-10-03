@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0322-coin-change) |
+| [0407-trapping-rain-water-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2023-design-movie-rental-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1628-count-submatrices-with-all-ones) |
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0322-coin-change) |
+| [0407-trapping-rain-water-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0617-merge-two-binary-trees](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
