@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3827-implement-router) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
 | ------- |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Heap (Priority Queue)
 |  |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2479-meeting-rooms-iii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3678-design-task-manager](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3863-power-grid-maintenance) |
 ## Simulation
 |  |
 | ------- |
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [3863-power-grid-maintenance](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3863-power-grid-maintenance) |
 ## Trie
 |  |
 | ------- |
@@ -655,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3863-power-grid-maintenance](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -677,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3863-power-grid-maintenance) |
 ## String Matching
 |  |
 | ------- |
@@ -706,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0794-swim-in-rising-water](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0794-swim-in-rising-water) |
+| [3863-power-grid-maintenance](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3863-power-grid-maintenance) |
 ## Geometry
 |  |
 | ------- |
@@ -737,4 +744,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Graph
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
