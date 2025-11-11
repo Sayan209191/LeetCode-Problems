@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0474-ones-and-zeroes](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0474-ones-and-zeroes](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0826-soup-servings](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0826-soup-servings) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0257-binary-tree-paths](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0392-is-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0474-ones-and-zeroes) |
 | [0678-valid-parenthesis-string](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0800-letter-case-permutation](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0800-letter-case-permutation) |
 | [0874-backspace-string-compare](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
