@@ -539,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Sayan209191/LeetCode-Problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3863-power-grid-maintenance) |
 ## Trie
 |  |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sayan209191/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Segment Tree
 |  |
 | ------- |
