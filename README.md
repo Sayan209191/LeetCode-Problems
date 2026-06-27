@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2689-rearranging-fruits) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2479-meeting-rooms-iii) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Sayan209191/LeetCode-Problems/tree/master/2689-rearranging-fruits) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sayan209191/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
